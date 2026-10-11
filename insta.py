@@ -1,0 +1,6 @@
+"""i = 1
+
+while i <= 1000 :
+    print("sorry baby")
+    i+=1
+"""
